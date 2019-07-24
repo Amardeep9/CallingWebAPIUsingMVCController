@@ -1,4 +1,4 @@
-# CallingWebAPIUsingMVCController
+# CallingWebAPIUsingMVCControllerusingJQuery
 
 First we Created a table and then a new project in VS=>ASP.net Web Application=>Select Empty=>check MVC and Web API
 Create ADO.net Entity Model(DB First Approach)=>Select only Table(info),save build it, 
